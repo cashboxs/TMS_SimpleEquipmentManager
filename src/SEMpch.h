@@ -1,0 +1,24 @@
+#pragma once
+#include <RE/Skyrim.h>
+#include <SKSE/SKSE.h>
+#include <spdlog/spdlog.h>
+#include <spdlog/sinks/basic_file_sink.h>
+#include <nlohmann/json.hpp>
+#include <algorithm>
+#include <array>
+#include <atomic>
+#include <chrono>
+#include <cstdint>
+#include <cwchar>
+#include <filesystem>
+#include <fstream>
+#include <memory>
+#include <mutex>
+#include <set>
+#include <string>
+#include <string_view>
+#include <unordered_map>
+#include <unordered_set>
+#include <vector>
+#include <Windows.h>
+using namespace std::literals;

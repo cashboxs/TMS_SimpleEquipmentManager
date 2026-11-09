@@ -1,0 +1,8 @@
+{
+  "name": "tms-simple-equipment-manager",
+  "version-string": "1.0.4",
+  "dependencies": [
+    "commonlibsse-ng",
+    "nlohmann-json"
+  ]
+}
